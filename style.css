@@ -19,3 +19,23 @@
     font-size: 20px;
     font-style: italic;
 }
+
+.result_tag {
+    font-size: 20;
+}
+
+#copywritefooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: gold;
+    text-align: center;
+    font-size: 20;
+    line-height: 2;
+}
+
+canvas {
+    border:2px solid crimson;
+    margin-top: 70px;
+}
